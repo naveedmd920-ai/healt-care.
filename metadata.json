@@ -1,0 +1,12 @@
+{
+  "name": "Rural Health Connect",
+  "description": "Healthcare for Every Village — Affordable, multilingual rural telemedicine consultations, appointment booking, nearby hospital discovery, and health awareness platform by Team Elite (SNIST).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
